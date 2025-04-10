@@ -8,7 +8,7 @@ import (
 	"path"
 	"reflect"
 
-	"nova/src/util/filesystem"
+	"github.com/jericho-yu/nova/src/util/filesystem"
 
 	"gopkg.in/yaml.v2"
 )

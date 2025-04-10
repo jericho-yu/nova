@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"sync"
 
-	"nova/src/util/array"
-	"nova/src/util/dict"
+	"github.com/jericho-yu/nova/src/util/array"
+	"github.com/jericho-yu/nova/src/util/dict"
 
 	"github.com/gorilla/websocket"
 )

@@ -3,7 +3,7 @@ package rabbit
 import (
 	"sync"
 
-	"nova/src/util/dict"
+	"github.com/jericho-yu/nova/src/util/dict"
 )
 
 type (

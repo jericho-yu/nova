@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"nova/src/util/filesystem"
-	"nova/src/util/operation"
+	"github.com/jericho-yu/nova/src/util/filesystem"
+	"github.com/jericho-yu/nova/src/util/operation"
 
 	"github.com/natefinch/lumberjack"
 	"go.uber.org/zap"

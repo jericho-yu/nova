@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"nova/src/util/operation"
+	"github.com/jericho-yu/nova/src/util/operation"
 )
 
 type (

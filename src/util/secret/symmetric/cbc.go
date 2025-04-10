@@ -8,7 +8,7 @@ import (
 	"errors"
 	"fmt"
 
-	"nova/src/util/str"
+	"github.com/jericho-yu/nova/src/util/str"
 )
 
 type Cbc struct{}

@@ -6,9 +6,9 @@ import (
 	"time"
 	"unsafe"
 
-	"nova/src/util/array"
-	"nova/src/util/operation"
-	"nova/src/util/str"
+	"github.com/jericho-yu/nova/src/util/array"
+	"github.com/jericho-yu/nova/src/util/operation"
+	"github.com/jericho-yu/nova/src/util/str"
 )
 
 type (

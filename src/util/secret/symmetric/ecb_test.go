@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
-	"nova/src/util/compression"
+	"github.com/jericho-yu/nova/src/util/compression"
 	"testing"
 )
 

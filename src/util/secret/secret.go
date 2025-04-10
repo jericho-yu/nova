@@ -8,11 +8,11 @@ import (
 	"fmt"
 	"hash"
 
-	"nova/src/util/compression"
+	"github.com/jericho-yu/nova/src/util/compression"
 
-	"nova/src/util/common"
-	"nova/src/util/secret/symmetric"
-	"nova/src/util/str"
+	"github.com/jericho-yu/nova/src/util/common"
+	"github.com/jericho-yu/nova/src/util/secret/symmetric"
+	"github.com/jericho-yu/nova/src/util/str"
 )
 
 func EncryptAuthorization(key, secretKey string, iv []byte, randStr ...string) (string, string, error) {

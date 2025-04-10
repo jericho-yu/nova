@@ -3,7 +3,7 @@ package excel
 import (
 	"fmt"
 
-	"nova/src/util/array"
+	"github.com/jericho-yu/nova/src/util/array"
 
 	"github.com/xuri/excelize/v2"
 )

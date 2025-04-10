@@ -11,8 +11,8 @@ import (
 	"errors"
 	"fmt"
 
-	"nova/src/util/compression"
-	"nova/src/util/str"
+	"github.com/jericho-yu/nova/src/util/compression"
+	"github.com/jericho-yu/nova/src/util/str"
 )
 
 type (

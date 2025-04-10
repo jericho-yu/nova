@@ -1,4 +1,4 @@
-module nova
+module github.com/jericho-yu/nova
 
 go 1.23.7
 

@@ -15,7 +15,7 @@ import (
 	"os"
 	"time"
 
-	"nova/src/util/str"
+	"github.com/jericho-yu/nova/src/util/str"
 
 	jsonIter "github.com/json-iterator/go"
 )

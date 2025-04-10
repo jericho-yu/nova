@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"nova/src/util/array"
-	"nova/src/util/myError"
-	"nova/src/util/operation"
+	"github.com/jericho-yu/nova/src/util/array"
+	"github.com/jericho-yu/nova/src/util/myError"
+	"github.com/jericho-yu/nova/src/util/operation"
 )
 
 type (

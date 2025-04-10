@@ -3,8 +3,8 @@ package excel
 import (
 	"fmt"
 
-	"nova/src/util/array"
-	"nova/src/util/dict"
+	"github.com/jericho-yu/nova/src/util/array"
+	"github.com/jericho-yu/nova/src/util/dict"
 
 	"github.com/go-gota/gota/dataframe"
 	"github.com/go-gota/gota/series"

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"nova/src/util/str"
+	"github.com/jericho-yu/nova/src/util/str"
 
 	"github.com/google/uuid"
 )

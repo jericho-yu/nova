@@ -3,7 +3,7 @@ package v2
 import (
 	"path/filepath"
 
-	"nova/src/util/array"
+	"github.com/jericho-yu/nova/src/util/array"
 )
 
 func getRootPath(dir string) string {

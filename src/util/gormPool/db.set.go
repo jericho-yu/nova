@@ -1,7 +1,7 @@
 package gormPool
 
 import (
-	"nova/src/util/honestMan"
+	"github.com/jericho-yu/nova/src/util/honestMan"
 )
 
 type (

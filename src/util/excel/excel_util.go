@@ -3,9 +3,9 @@ package excel
 import (
 	"time"
 
-	"nova/src/util/dict"
+	"github.com/jericho-yu/nova/src/util/dict"
 
-	"nova/src/util/str"
+	"github.com/jericho-yu/nova/src/util/str"
 
 	"github.com/xuri/excelize/v2"
 )

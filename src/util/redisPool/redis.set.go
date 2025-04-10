@@ -1,6 +1,6 @@
 package redisPool
 
-import "nova/src/util/honestMan"
+import "github.com/jericho-yu/nova/src/util/honestMan"
 
 type RedisSetting struct {
 	Host     string `yaml:"host"`

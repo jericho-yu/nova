@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"nova/src/util/dict"
+	"github.com/jericho-yu/nova/src/util/dict"
 
 	"github.com/gorilla/websocket"
 )

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"nova/src/util/httpClient"
+	"github.com/jericho-yu/nova/src/util/httpClient"
 )
 
 type (

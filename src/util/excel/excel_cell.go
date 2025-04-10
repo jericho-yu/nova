@@ -3,7 +3,7 @@ package excel
 import (
 	"time"
 
-	"nova/src/util/array"
+	"github.com/jericho-yu/nova/src/util/array"
 )
 
 type (

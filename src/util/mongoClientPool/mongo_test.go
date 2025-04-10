@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"nova/src/util/array"
+	"github.com/jericho-yu/nova/src/util/array"
 
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

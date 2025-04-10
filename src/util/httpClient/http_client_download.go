@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"nova/src/util/array"
-	"nova/src/util/dict"
+	"github.com/jericho-yu/nova/src/util/array"
+	"github.com/jericho-yu/nova/src/util/dict"
 
 	processBar "github.com/schollz/progressbar/v3"
 )

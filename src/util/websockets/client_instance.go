@@ -1,7 +1,7 @@
 package websockets
 
 import (
-	"nova/src/util/dict"
+	"github.com/jericho-yu/nova/src/util/dict"
 )
 
 type ClientInstance struct {

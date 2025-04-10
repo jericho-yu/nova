@@ -8,9 +8,9 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"nova/src/util/common"
-	"nova/src/util/operation"
-	"nova/src/util/str"
+	"github.com/jericho-yu/nova/src/util/common"
+	"github.com/jericho-yu/nova/src/util/operation"
+	"github.com/jericho-yu/nova/src/util/str"
 )
 
 type (

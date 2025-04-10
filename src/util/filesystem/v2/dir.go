@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"nova/src/util/array"
+	"github.com/jericho-yu/nova/src/util/array"
 )
 
 type (

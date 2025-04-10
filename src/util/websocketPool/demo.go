@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"nova/src/util/str"
+	"github.com/jericho-yu/nova/src/util/str"
 
 	"github.com/gorilla/websocket"
 )

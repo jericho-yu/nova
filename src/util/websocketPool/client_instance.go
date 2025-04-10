@@ -3,7 +3,7 @@ package websocketPool
 import (
 	"errors"
 
-	"nova/src/util/dict"
+	"github.com/jericho-yu/nova/src/util/dict"
 )
 
 // ClientInstance websocket 客户端链接实例
